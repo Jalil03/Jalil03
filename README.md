@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abdeljalil BOUZINE!
+# Hi there 👋, I'm Abdeljalil BOUZINE (also JL ) !
 
 Welcome to my GitHub profile!  
 I'm a **Full Stack Developer** and **MERN Stack Developer** with a strong focus on building robust and scalable web applications. Currently, I'm pursuing a Master's degree in **Artificial Intelligence and Digital Computing (AIDC)**, exploring the intersection of software development and cutting-edge AI technologies.  
