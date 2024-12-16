@@ -3,53 +3,56 @@
 Welcome to my GitHub profile!  
 I'm a **Full Stack Developer** and **MERN Stack Developer** with a strong focus on building robust and scalable web applications. Currently, I'm pursuing a Master's degree in **Artificial Intelligence and Digital Computing (AIDC)**, exploring the intersection of software development and cutting-edge AI technologies.  
 
-## 🔧 Technologies & Tools  
+# 🔧 Technologies & Tools  
 
-### Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20&labelColor=000000&borderRadius=20" alt="JavaScript" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&borderRadius=20" alt="Python" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&borderRadius=20" alt="R" style="border-radius:50%;" />
-</p>
+##  Programming Languages  
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>  
+</div>
 
-### Frameworks & Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&borderRadius=20" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&borderRadius=20" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&borderRadius=20" alt="Express.js" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&borderRadius=20" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&borderRadius=20" alt="PyTorch" />
-</p>
+##  Frameworks & Libraries  
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>  
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/>  
+</div>
 
-### Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=20" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=20" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&borderRadius=20" alt="PostgreSQL" />
-</p>
+##  Databases  
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>  
+</div>
 
-### Tools & Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&borderRadius=20" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&borderRadius=20" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&borderRadius=20" alt="Postman" />
-</p>
+##  Tools & Platforms  
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+</div>
 
-
-## 🌟 What I'm Working On  
+# 🌟 What I'm Working On  
 - **AI and Machine Learning Projects**: Leveraging TensorFlow and PyTorch for predictive modeling and deep learning.  
 - **Full-Stack Applications**: Developing end-to-end solutions using the MERN stack.  
 - **Open-Source Contributions**: Collaborating with the community to build impactful projects.  
 
-## 🚀 Goals  
+# 🚀 Goals  
 - Master advanced AI techniques and integrate them into practical applications.  
 - Contribute to innovative projects in AI, web development, and data science.  
 - Expand my expertise in R and Python for data analysis and visualization.  
 
-## 📫 Let's Connect  
+# 📫 Let's Connect  
 Feel free to reach out or connect with me:  
-- **Email**: [abdobouzine2003@gmail.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/abdeljalil-bouzine/] 
-
+- **Email**: [abdobouzine2003@gmail.com](mailto:abdobouzine2003@gmail.com)  
+- **LinkedIn**: [Abdeljalil BOUZINE](https://www.linkedin.com/in/abdeljalil-bouzine/)  
 
 Thanks for visiting my profile! 🌟
