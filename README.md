@@ -5,8 +5,6 @@ I'm a **Full Stack Developer** and **MERN Stack Developer** with a strong focus 
 
 ## 🔧 Technologies & Tools  
 
-## 🔧 Technologies & Tools  
-
 ### Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoWidth=20&labelColor=000000&borderRadius=20" alt="JavaScript" style="border-radius:50%;" />
