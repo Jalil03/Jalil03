@@ -1,58 +1,67 @@
-# Hi there 👋, I'm Abdeljalil BOUZINE (also JL ) !
+<h1 align="center">Hi 👋, I'm Abdeljalil BOUZINE (JL)</h1>
+<h3 align="center">🚀 Full Stack Developer | AI & Big Data Enthusiast | MERN Stack & Deep Learning</h3>
 
-Welcome to my GitHub profile!  
-I'm a **Full Stack Developer** and **MERN Stack Developer** with a strong focus on building robust and scalable web applications. Currently, I'm pursuing a Master's degree in **Artificial Intelligence and Digital Computing (AIDC)**, exploring the intersection of software development and cutting-edge AI technologies.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Apps+⚡;Exploring+AI+%26+Deep+Learning+🤖;Big+Data+%26+Streaming+Analytics+📊;IoT+%2B+Edge+AI+Innovation+🌍" />
+</p>
 
-# 🔧 Technologies & Tools  
+---
 
-##  Programming Languages  
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>  
-</div>
+## 🔧 Tech Toolbox
 
-##  Frameworks & Libraries  
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>  
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="60" height="60"/>  
-</div>
+### 👨‍💻 Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,r,php&theme=dark" />
+</p>
 
-##  Databases  
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>  
-</div>
+### ⚡ Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,spring,tensorflow,pytorch&theme=dark" />
+</p>
 
-##  Tools & Platforms  
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-</div>
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+</p>
 
-# 🌟 What I'm Working On  
-- **AI and Machine Learning Projects**: Leveraging TensorFlow and PyTorch for predictive modeling and deep learning.  
-- **Full-Stack Applications**: Developing end-to-end solutions using the MERN stack.  
-- **Open-Source Contributions**: Collaborating with the community to build impactful projects.  
+### 🛠️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman&theme=dark" />
+</p>
 
-# 🚀 Goals  
-- Master advanced AI techniques and integrate them into practical applications.  
-- Contribute to innovative projects in AI, web development, and data science.  
-- Expand my expertise in R and Python for data analysis and visualization.  
+---
 
-# 📫 Let's Connect  
-Feel free to reach out or connect with me:  
-- **Email**: [abdobouzine2003@gmail.com](mailto:abdobouzine2003@gmail.com)  
-- **LinkedIn**: [Abdeljalil BOUZINE](https://www.linkedin.com/in/abdeljalil-bouzine/)  
+## 🌟 Featured Projects
+- 🤖 **AI & Deep Learning**: ResNet, AlexNet & Vision Transformers for OCR, medical imaging, and anomaly detection.  
+- 🌍 **IoT & Edge AI**: Smart irrigation system with ESP32, FastAPI backend & LSTM rainfall prediction.  
+- 📡 **Big Data & Streaming**: Kafka pipelines for real-time flight tracking + LSTM autoencoder anomaly detection.  
+- 💻 **Full Stack Apps**: MERN dashboards with authentication, real-time updates & data visualization.  
 
-Thanks for visiting my profile! 🌟
+---
+
+## 🚀 Goals
+- 🎯 Master **MLOps & AI Deployment Pipelines**  
+- 🔥 Expand expertise in **Spark, Hadoop & distributed systems**  
+- 🤝 Contribute to impactful **Open-Source AI + IoT projects**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jalil03&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalil03&theme=radical" alt="streak" height="160"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:abdobouzine2003@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdeljalil-bouzine/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Jalil03"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
