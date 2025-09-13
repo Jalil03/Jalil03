@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdeljalil BOUZINE (JL)</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & Big Data Enthusiast | MERN Stack & Deep Learning</h3>
+<h3 align="center">🚀AI and ML engineer , gen AI </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Building+Scalable+Apps+⚡;Exploring+AI+%26+Deep+Learning+🤖;Big+Data+%26+Streaming+Analytics+📊;IoT+%2B+Edge+AI+Innovation+🌍" />
