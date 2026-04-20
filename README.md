@@ -102,7 +102,6 @@ Projects combining **embedded systems, APIs, forecasting, and data pipelines**.
 - Contribute to projects at the intersection of **AI, automation, and enterprise systems**
 - Grow through impactful work in **research, engineering, and open source**
 
----
 
 ## 📈 GitHub Stats
 
