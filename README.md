@@ -90,9 +90,8 @@ Projects combining **embedded systems, APIs, forecasting, and data pipelines**.
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,githubactions,jenkins,linux,postman,grafana,prometheus,aws,gcp&theme=dark" />
 </p>
-
 ---
 
 ## 🎯 Current Goals
